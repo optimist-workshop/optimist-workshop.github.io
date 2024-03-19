@@ -19,15 +19,12 @@ Topics of interest for OPTIMIST include
 * Standard Hardware Interfaces for Security Measurement Instrumentation;
 * Standard Firmware Libraries and Hardware Targets for Security Evaluation;
 
-## Call for Contributions
-
-
 ## Organizers
 
 * Aydin Aysu, North Carolina State University
 * Fatemeh Ganji, Worcester Polytechnic Institute
 * Patrick Schaumont, Worcester Polytechnic Institute
 
-## Program Committee
+## Call for Contributions
 
 TBA
