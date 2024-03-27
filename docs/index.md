@@ -28,7 +28,7 @@ Each submission should be nonanonymous. A talk abstract must be at most 1 page, 
 ## Timeline
 
 * June 15: Submissions
-* July 30: Acceptance Notifications
+* July 15: Acceptance Notifications
 * August 1: Program Announcement
 
 ## Organizers
