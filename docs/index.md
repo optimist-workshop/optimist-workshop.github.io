@@ -6,7 +6,7 @@ layout: default
 
 The OPTIMIST workshop is a forum to present and discuss new efforts that enable open and reproducible research in implementation security. The OPTIMIST emphasis is not on the artifacts themselves, but on the interfaces, components, libraries, hardware, and software tools that enable reproducibility and quality in implementation security testing.
 
-## Call for Contributions [PDF](OPTIMIST_CFP.pdf)
+## Call for Contributions 
 
 As the OPTIMIST workshop is a forum to present and discuss new efforts that enable open and reproducible research in implementation security, the organizers and program committee invite submissions of proposals for talks.
 
@@ -22,7 +22,8 @@ Talks are 15 min in length, and are presented from the podium with slides, follo
 
 Each submission should be nonanonymous. A talk abstract must be at most 1 page, including a title, name of contributors and presenter(s), and a work description that can include figures and references. The authors are encouraged to refer to their paper published elsewhere before (if any), serving as the basis for the talk.
 
-Submit to: https://easychair.org/conferences/?conf=optimist2024
+* [Download the CFP](OPTIMIST_CFP.pdf)
+* [Submit a talk proposal](https://easychair.org/conferences/?conf=optimist2024)
 
 ## Timeline
 
