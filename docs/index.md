@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Open Tools, Interface and Metrics for Implementation Security Testing
+# Open Tools, Interfaces and Metrics for Implementation Security Testing
 
 The OPTIMIST workshop is a forum to present and discuss new efforts that enable open and reproducible research in implementation security. The OPTIMIST emphasis is not on the artifacts themselves, but on the interfaces, components, libraries, hardware, and software tools that enable reproducibility and quality in implementation security testing.
 
