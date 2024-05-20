@@ -6,6 +6,15 @@ layout: default
 
 The OPTIMIST workshop is a forum to present and discuss new efforts that enable open and reproducible research in implementation security. The OPTIMIST emphasis is not on the artifacts themselves, but on the interfaces, components, libraries, hardware, and software tools that enable reproducibility and quality in implementation security testing.
 
+## Invited Speakers
+
+We are thrilled to announce talks by the following invited speakers.
+
+* [Colin O'Flynn](https://www.dal.ca/faculty/engineering/electrical/faculty-staff/our-faculty/professors/oflynn-colin.html), Dalhousie University, CA
+* [Markku-Juhani Saarinen](https://www.tuni.fi/en/markku-juhani-saarinen), Tampere University, FI
+* [Gaëtan Cassiers](https://perso.cassiersg.be/), UC Louvain, BE
+* [Damien Couroussé](https://damien.courousse.fr/), CEA List, FR
+
 ## Call for Contributions 
 
 As the OPTIMIST workshop is a forum to present and discuss new efforts that enable open and reproducible research in implementation security, the organizers and program committee invite submissions of proposals for talks.
