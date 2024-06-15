@@ -36,7 +36,9 @@ Each submission should be nonanonymous. A talk abstract must be at most 1 page, 
 
 ## Timeline
 
-* June 15: Submissions
+**The submission deadline is extended until June 21, AOE**
+
+* June 21: Submissions
 * July 15: Acceptance Notifications
 * August 1: Program Announcement
 
