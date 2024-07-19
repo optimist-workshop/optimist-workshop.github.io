@@ -25,15 +25,14 @@ We are thrilled to announce talks by the following invited speakers.
 |       | **Markku-Juhani Saarinen** |
 | 10:00 | Session 1 |
 |       | Lukasz Chmielewski, Léo Weissbart and Lubomír Hrbáček |
-|       | **Technical aspects of implementing and evaluating ECC crypto libraries** |
-|       | **protected against side-channel and fault injection attacks.** |
+|       | *Technical aspects of implementing and evaluating ECC crypto libraries protected against side-channel and fault injection attacks* |
 | 10:15 | Kamyar Mohajerani, Jens-Peter Kaps and Kris Gaj |
-|       | **Hardware API for Lightweight Cryptography** |
+|       | *Hardware API for Lightweight Cryptography* |
 | 10:30 | Coffee Break |
 | 11:00 | Invited Talk |
 |       | **Colin O'Flynn** |
 | 11:45 | Project Kickoff |
-|       | **An Open-Source Approach to Measure and Analyze Embedded Systems Security** |
+|       | *An Open-Source Approach to Measure and Analyze Embedded Systems Security* |
 | 12:30 | Lunch |
 
 
