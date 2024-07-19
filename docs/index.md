@@ -18,17 +18,23 @@ We are thrilled to announce talks by the following invited speakers.
 ## Tentative Program
 
 
-+-------------------+--------------------------------------------+-------------------+
-| Name              | Description                                | Example           |
-+===================+============================================+===================+
-| Server Version    | The version of the server                  | 0.20.0            |
-+-------------------+--------------------------------------------+-------------------+
-| Protocol Version  | The version of the protocol                | 0.1.0             |
-|                   | (different servers can have same protocol) |                   |
-+-------------------+--------------------------------------------+-------------------+
-| Capabilities      | What features the server has implemented   | "search"          |
-+-------------------+--------------------------------------------+-------------------+
-
+| Time  |     |
+| ---   | --- |
+| 9:00  | Welcome Remarks |
+| 9:15  | Invited Talk |
+|       | **Markku-Juhani Saarinen** |
+| 10:00 | Session 1 |
+|       | Lukasz Chmielewski, Léo Weissbart and Lubomír Hrbáček |
+|       | **Technical aspects of implementing and evaluating ECC crypto libraries** |
+|       | **protected against side-channel and fault injection attacks.** |
+| 10:15 | Kamyar Mohajerani, Jens-Peter Kaps and Kris Gaj |
+|       | **Hardware API for Lightweight Cryptography** |
+| 10:30 | Coffee Break |
+| 11:00 | Invited Talk |
+|       | **Colin O'Flynn** |
+| 11:45 | Project Kickoff |
+|       | **An Open-Source Approach to Measure and Analyze Embedded Systems Security** |
+| 12:30 | Lunch |
 
 
 ## Call for Contributions 
