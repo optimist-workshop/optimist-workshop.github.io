@@ -19,21 +19,33 @@ We are thrilled to announce talks by the following invited speakers.
 
 
 | Time  |     |
-| ---   | --- |
+| ---   | :---: |
 | 9:00  | Welcome Remarks |
-| 9:15  | Invited Talk |
-|       | **Markku-Juhani Saarinen** |
-| 10:00 | Session 1 |
+| 9:15  | **Invited Talk** |
+|       | Markku-Juhani Saarinen |
+| 10:00 | **Session 1** |
 |       | Lukasz Chmielewski, Léo Weissbart and Lubomír Hrbáček |
 |       | *Technical aspects of implementing and evaluating ECC crypto libraries protected against side-channel and fault injection attacks* |
 | 10:15 | Kamyar Mohajerani, Jens-Peter Kaps and Kris Gaj |
 |       | *Hardware API for Lightweight Cryptography* |
-| 10:30 | Coffee Break |
-| 11:00 | Invited Talk |
-|       | **Colin O'Flynn** |
-| 11:45 | Project Kickoff |
+| 10:30 | **Coffee Break** |
+| 11:00 | **Invited Talk** |
+|       | Colin O'Flynn |
+| 11:45 | **Project Kickoff** |
 |       | *An Open-Source Approach to Measure and Analyze Embedded Systems Security* |
-| 12:30 | Lunch |
+| 12:30 | **Lunch** |
+| 13:00 | **Invited Talk** |
+|       | Damien Couroussé |
+| 13:45 | ** Session 2**   |
+|       | Jonah Bosland, Stefan Ene, Peter Baumgartner and Vincent Immler |
+|       | *SCARR: A High-Performance Side-Channel Analysis Framework* |
+| 14:00 | Karel Král, Jean-Michel Picod, Luca Invernizzi and Elie Bursztein |
+|       | *SCADL: A Side-Channel Attack Tool Based on Deep Learning* |
+| 14:40 | **Coffee Break** |
+| 15:00 | **Invited Talk** |
+|       | Gaëtan Cassiers  |
+| 15:45 | **Panel**        |
+| 16:45 | **Closing**      |
 
 
 ## Call for Contributions 
