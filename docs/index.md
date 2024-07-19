@@ -15,6 +15,22 @@ We are thrilled to announce talks by the following invited speakers.
 * [Gaëtan Cassiers](https://perso.cassiersg.be/), UC Louvain, BE
 * [Damien Couroussé](https://damien.courousse.fr/), CEA List, FR
 
+## Tentative Program
+
+
++-------------------+--------------------------------------------+-------------------+
+| Name              | Description                                | Example           |
++===================+============================================+===================+
+| Server Version    | The version of the server                  | 0.20.0            |
++-------------------+--------------------------------------------+-------------------+
+| Protocol Version  | The version of the protocol                | 0.1.0             |
+|                   | (different servers can have same protocol) |                   |
++-------------------+--------------------------------------------+-------------------+
+| Capabilities      | What features the server has implemented   | "search"          |
++-------------------+--------------------------------------------+-------------------+
+
+
+
 ## Call for Contributions 
 
 As the OPTIMIST workshop is a forum to present and discuss new efforts that enable open and reproducible research in implementation security, the organizers and program committee invite submissions of proposals for talks.
