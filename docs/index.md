@@ -34,7 +34,7 @@ We are thrilled to announce talks by the following invited speakers.
 | 12:30 | **Lunch** |
 |       | **Invited Talk** |
 | 13:00 | Damien Couroussé |
-|       | ** Session 2**   |
+|       | **Session 2**   |
 | 13:45 | Jonah Bosland, Stefan Ene, Peter Baumgartner and Vincent Immler, *SCARR: A High-Performance Side-Channel Analysis Framework* |
 | 14:00 | Karel Král, Jean-Michel Picod, Luca Invernizzi and Elie Bursztein, *Sedpack - Scalable and efficient dataset library* |
 | 14:15 | Karim Abdellatif, *SCADL: A Side-Channel Attack Tool Based on Deep Learning* |
