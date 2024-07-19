@@ -21,26 +21,22 @@ We are thrilled to announce talks by the following invited speakers.
 | Time  |     |
 | ---   | :---: |
 | 9:00  | Welcome Remarks |
-|       | **Invited Talk** |
-| 9:15      | Markku-Juhani Saarinen |
+| 9:15  | **Invited Talk:** Markku-Juhani Saarinen |
 |       | **Session 1** |
 | 10:00 | Lukasz Chmielewski, Léo Weissbart and Lubomír Hrbáček, *Technical aspects of implementing and evaluating ECC crypto libraries protected against side-channel and fault injection attacks* |
 | 10:15 | Kamyar Mohajerani, Jens-Peter Kaps and Kris Gaj, *Hardware API for Lightweight Cryptography* |
 | 10:30 | **Coffee Break** |
-|       | **Invited Talk** |
-| 11:00 | Colin O'Flynn |
+| 11:00 | **Invited Talk:**  Colin O'Flynn |
 |       | **Project Kickoff** |
 | 11:45 | *An Open-Source Approach to Measure and Analyze Embedded Systems Security* |
 | 12:30 | **Lunch** |
-|       | **Invited Talk** |
-| 13:00 | Damien Couroussé |
+| 13:00 | **Invited Talk:** Damien Couroussé |
 |       | **Session 2**   |
 | 13:45 | Jonah Bosland, Stefan Ene, Peter Baumgartner and Vincent Immler, *SCARR: A High-Performance Side-Channel Analysis Framework* |
 | 14:00 | Karel Král, Jean-Michel Picod, Luca Invernizzi and Elie Bursztein, *Sedpack - Scalable and efficient dataset library* |
 | 14:15 | Karim Abdellatif, *SCADL: A Side-Channel Attack Tool Based on Deep Learning* |
 | 14:30 | **Coffee Break** |
-|       | **Invited Talk** |
-| 15:00 | Gaëtan Cassiers  |
+| 15:00 | **Invited Talk:** Gaëtan Cassiers  |
 | 15:45 | **Panel**        |
 | 16:45 | **Closing**      |
 
