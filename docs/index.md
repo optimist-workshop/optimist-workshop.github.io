@@ -27,8 +27,7 @@ We are thrilled to announce talks by the following invited speakers.
 | 10:15 | Kamyar Mohajerani, Jens-Peter Kaps and Kris Gaj, *Hardware API for Lightweight Cryptography* |
 | 10:30 | **Coffee Break** |
 | 11:00 | **Invited Talk:**  Colin O'Flynn |
-|       | **Project Kickoff** |
-| 11:45 | *An Open-Source Approach to Measure and Analyze Embedded Systems Security* |
+| 11:45 | **Project Kickoff:** *An Open-Source Approach to Measure and Analyze Embedded Systems Security* |
 | 12:30 | **Lunch** |
 | 13:00 | **Invited Talk:** Damien Couroussé |
 |       | **Session 2**   |
