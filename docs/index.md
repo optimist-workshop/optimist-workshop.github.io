@@ -48,25 +48,9 @@ The OPTIMIST workshop is a forum to present and discuss new efforts that enable 
 
 <td>
 
-Bio: <a href="https://damien.courousse.fr/">Damien Couroussé</a> is with
-CEA-List since 2011, as a Research Engineer and Senior Expert.  His
-research interests include embedded software and its interaction with
-hardware, compilation and runtime code generation for performance and
-security, with a focus on hardware security.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-</td>
-
-<td>
-
 <b>Fault security analysis and verification: challenges and new directions</b>
 
+<p>
 Fault injection attacks pose a serious threat to the security of
 cryptographic implementations, but also more generally to the security
 of any embedded system.  Recent research has illustrated that these
@@ -75,6 +59,16 @@ equally complex software stacks.  As a consequence, the attack surface
 is rapidly growing, putting further pressure on effective robustness
 analysis tools.  In this talk, we will illustrate the challenges facing
 fault security analysis, and suggest new directions for development.
+</p>
+
+<p>
+Bio: <a href="https://damien.courousse.fr/">Damien Couroussé</a> is with
+CEA-List since 2011, as a Research Engineer and Senior Expert.  His
+research interests include embedded software and its interaction with
+hardware, compilation and runtime code generation for performance and
+security, with a focus on hardware security.
+</p>
+
 </td>
 
 </tr>
