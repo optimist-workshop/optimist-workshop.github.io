@@ -196,7 +196,7 @@ Security from Royal Holloway, University of London (2009).  </p>
 
 <tr>
 
-<td style="vertical-align:top;"> <img src="/assets/img/jasper-headshot.jpg" alt="Jasper van Woudenberg" style="width=150" />
+<td style="vertical-align:top;"> <img src="/assets/img/jasper_headshot.jpg" alt="Jasper van Woudenberg" style="width=150" />
 
 </td>
 
