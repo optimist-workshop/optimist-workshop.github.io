@@ -179,13 +179,7 @@ worked for a penetration testing firm, where he performed source code
 resview, binary reverse engineering and tested application and network
 security. At Riscure, Jasper deals with various aspects of hardware
 security; from design review and logical testing, to side-channel
-analysis and perturbation attacks. Jasper has spoken at many security
-conferences including BlackHat briefings and trainings, Intel Security
-Conference, RWC, RSA, EDSC, BSides SF, Shakacon, ICMC, Infiltrate, has
-presented scientific research at SAC, WISSEC, CT-RSA, FDTC, ESC
-Design, ARM TechCon, has reviewed papers for CHES and JCEN, and has
-given invited talks at Stanford, NPS, GMU and the University of
-Amsterdam. 
+analysis and perturbation attacks. 
 </p>
 </td>
 
