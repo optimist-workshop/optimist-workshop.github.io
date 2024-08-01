@@ -6,15 +6,6 @@ layout: default
 
 The OPTIMIST workshop is a forum to present and discuss new efforts that enable open and reproducible research in implementation security. The OPTIMIST emphasis is not on the artifacts themselves, but on the interfaces, components, libraries, hardware, and software tools that enable reproducibility and quality in implementation security testing.
 
-## Invited Speakers
-
-We are thrilled to announce talks by the following invited speakers.
-
-* [Colin O'Flynn](https://www.dal.ca/faculty/engineering/electrical/faculty-staff/our-faculty/professors/oflynn-colin.html), Dalhousie University, CA
-* [Markku-Juhani Saarinen](https://www.tuni.fi/en/markku-juhani-saarinen), Tampere University, FI
-* [Gaëtan Cassiers](https://perso.cassiersg.be/), UC Louvain, BE
-* [Damien Couroussé](https://damien.courousse.fr/), CEA List, FR
-
 ## Tentative Program
 
 
@@ -29,15 +20,46 @@ We are thrilled to announce talks by the following invited speakers.
 | 11:00 | **Invited Talk:**  Colin O'Flynn |
 | 11:45 | **Project Kickoff:** *An Open-Source Approach to Measure and Analyze Embedded Systems Security* |
 | 12:30 | **Lunch** |
-| 13:00 | **Invited Talk:** Damien Couroussé |
+| 13:00 | **Invited Talk:** Damien Couroussé, *Fault Security Analysis and Verification: Challenges and New Directions* |
 |       | **Session 2**   |
 | 13:45 | Jonah Bosland, Stefan Ene, Peter Baumgartner and Vincent Immler, *SCARR: A High-Performance Side-Channel Analysis Framework* |
 | 14:00 | Karel Král, Jean-Michel Picod, Luca Invernizzi and Elie Bursztein, *Sedpack - Scalable and efficient dataset library* |
 | 14:15 | Karim Abdellatif, *SCADL: A Side-Channel Attack Tool Based on Deep Learning* |
 | 14:30 | **Coffee Break** |
 | 15:00 | **Invited Talk:** Gaëtan Cassiers  |
-| 15:45 | **Panel**        |
+| 15:45 | **Panel: Open-Source Ecosystem for Implementation Security Testing: Needs, Activities, Commitments** with Shivam Bhasin (NTU), Miguel Osorio (Google), Jasper van Woudenberg (Riscure), and TBD  |
 | 16:45 | **Closing**      |
+
+
+## Invited Talks
+
+### [Colin O'Flynn](https://www.dal.ca/faculty/engineering/electrical/faculty-staff/our-faculty/professors/oflynn-colin.html), Dalhousie University, CA
+
+### [Damien Couroussé](https://damien.courousse.fr/), CEA List, FR
+
+**Fault security analysis and verification: challenges and new directions**
+
+Fault injection attacks pose a serious threat to the security of
+cryptographic implementations, but also more generally to the security
+of any embedded system.  Recent research has illustrated that these
+attacks can now successfully target complex systems-on-chips operated by
+equally complex software stacks.  As a consequence, the attack surface
+is rapidly growing, putting further pressure on effective robustness
+analysis tools.  In this talk, we will illustrate the challenges facing
+fault security analysis, and suggest new directions for development.
+
+**Bio**
+
+Damien Couroussé is with CEA-List since 2011, as a Research Engineer and Senior
+Expert.  His research interests include embedded software and its
+interaction with hardware, compilation and runtime code generation for
+performance and security, with a focus on hardware security.
+
+### [Markku-Juhani Saarinen](https://www.tuni.fi/en/markku-juhani-saarinen), Tampere University, FI
+
+
+### [Gaëtan Cassiers](https://perso.cassiersg.be/), UC Louvain, BE
+
 
 
 ## Call for Contributions 
