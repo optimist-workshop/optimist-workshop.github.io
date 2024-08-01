@@ -37,9 +37,8 @@ The OPTIMIST workshop is a forum to present and discuss new efforts that enable 
 
 <tr>
 
-<td style="vertical-align:top;"> <img src="/assets/img/colin.jpg"
-alt="Colin O'Flynn" style="width=150" />
-
+<td style="vertical-align:top;width:100px;">
+<img src="/assets/img/colin.jpg" alt="Colin O'Flynn"/>
 </td>
 
 <td>
@@ -57,10 +56,9 @@ O'Flynn</a> </p>
 
 <tr>
 
-<td style="vertical-align:top;">
+<td style="vertical-align:top;width:100px;">
 <img src="/assets/img/couro.jpg"
-     alt="Damien Courousse"
-     style="width=150" />
+     alt="Damien Courousse"/>
 
 </td>
 
@@ -93,10 +91,9 @@ security, with a focus on hardware security.
 
 <tr>
 
-<td style="vertical-align:top;">
+<td style="vertical-align:top;width:100px;">
 <img src="/assets/img/markku02.jpg"
-     alt="Markku-Juhani Saarinen"
-     style="width=150" />
+     alt="Markku-Juhani Saarinen"/>
 
 </td>
 
@@ -146,7 +143,7 @@ Security from Royal Holloway, University of London (2009).  </p>
 
 <tr>
 
-<td style="vertical-align:top;">
+<td style="vertical-align:top;width:100px;">
 
 </td>
 
@@ -167,25 +164,19 @@ Security from Royal Holloway, University of London (2009).  </p>
 
 <table>
 
-
 <tr>
 
+<td style="vertical-align:top;width:100px;">
 
-<td style="vertical-align:top;">
-<img src="/assets/img/jasper.jpg"
-     alt="Jasper van Woudenberg"
-     style="width=150" />
-</td>
+<img src="/assets/img/jasper02.png" alt="Jasper van Woudenberg"> </td>
 
 <td>
-
-<p> <a href="https://www.linkedin.com/in/jaspervw/">Jasper van
-Woudenberg</a> is CTO for Riscure North America and co-author of
-”Hardware Hacking Handbook: Breaking Embedded Security with Hardware
-Attacks”. He works with Riscure’s San Francisco based team to improve
+<p> <a href="https://www.linkedin.com/in/jaspervw/">Jasper van Woudenberg</a> is CTO for Riscure North America and co-author of
+Hardware Hacking Handbook: Breaking Embedded Security with Hardware
+Attacks. He works with Riscure’s San Francisco based team to improve
 embedded device security through innovation. In the past, Jasper
 worked for a penetration testing firm, where he performed source code
-review, binary reverse engineering and tested application and network
+resview, binary reverse engineering and tested application and network
 security. At Riscure, Jasper deals with various aspects of hardware
 security; from design review and logical testing, to side-channel
 analysis and perturbation attacks. Jasper has spoken at many security
@@ -194,19 +185,19 @@ Conference, RWC, RSA, EDSC, BSides SF, Shakacon, ICMC, Infiltrate, has
 presented scientific research at SAC, WISSEC, CT-RSA, FDTC, ESC
 Design, ARM TechCon, has reviewed papers for CHES and JCEN, and has
 given invited talks at Stanford, NPS, GMU and the University of
-Amsterdam.  </p>
-
+Amsterdam. 
+</p>
 </td>
 
 </tr>
 
 <tr>
 
-<td>
+<td style="vertical-align:top;width:100px;">
 
 </td>
 
-<td  style="vertical-align:top;">
+<td>
 
 <p> <a href="https://www.linkedin.com/in/shivam-bhasin-81901110">Shivam Bhasin</a></p>
 
@@ -216,7 +207,8 @@ Amsterdam.  </p>
 
 <tr>
 
-<td  style="vertical-align:top;">
+<td style="vertical-align:top;width:100px;">
+
 </td>
 
 <td>
