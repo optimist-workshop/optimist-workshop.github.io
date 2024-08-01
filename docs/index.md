@@ -12,7 +12,7 @@ The OPTIMIST workshop is a forum to present and discuss new efforts that enable 
 | Time  |     |
 | ---   | :---: |
 | 9:00  | Welcome Remarks |
-| 9:15  | **Invited Talk:** Markku-Juhani Saarinen |
+| 9:15  | **Invited Talk:** Markku-Juhani Saarinen, *Artifact Evaluation and Reproducibility at CHES* |
 |       | **Session 1** |
 | 10:00 | Lukasz Chmielewski, Léo Weissbart and Lubomír Hrbáček, *Technical aspects of implementing and evaluating ECC crypto libraries protected against side-channel and fault injection attacks* |
 | 10:15 | Kamyar Mohajerani, Jens-Peter Kaps and Kris Gaj, *Hardware API for Lightweight Cryptography* |
