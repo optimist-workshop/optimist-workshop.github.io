@@ -62,7 +62,7 @@ fault security analysis, and suggest new directions for development.
 </p>
 
 <p>
-Bio: <a href="https://damien.courousse.fr/">Damien Couroussé</a> is with
+<b>Bio:</b> <a href="https://damien.courousse.fr/">Damien Couroussé</a> is with
 CEA-List since 2011, as a Research Engineer and Senior Expert.  His
 research interests include embedded software and its interaction with
 hardware, compilation and runtime code generation for performance and
@@ -73,10 +73,62 @@ security, with a focus on hardware security.
 
 </tr>
 
+<tr>
+
+<td style="vertical-align:top;">
+<img src="/assets/img/markku02.jpg"
+     alt="Markku-Juhani Saarinen"
+     style="width=150" />
+
+</td>
+
+<td>
+
+<b>Artifact Evaluation and Reproducibility at CHES</b>
+
+<p> Artifact evaluation is an interactive process in which the
+Artifact Evaluation Committee (AEC) tries to help authors publish
+good-quality permanent artifacts (such as source code and data sets)
+related to their research. In the CHES 2024 artifact evaluation,
+authors of accepted papers could choose to have their research
+artifacts evaluated against functionality and reproducibility
+"badges." The use of reproducibility badges is now a standard
+procedure in many non-IACR security conferences (USENIX Security, ACM
+CCS, NDSS, ACSAC, and several IEEE conferences). We discuss various
+aspects of functionality and reproducibility testing that we have
+encountered during the 2024 period, especially related to hardware and
+software artifacts.</p>
+
+<p>As in all natural sciences, some results are easily reproducible,
+while others are not (perhaps due to data acquisition methods) -- and
+this does not necessarily make them lesser works! In the CHES context,
+we repeatedly ran into muddy waters when authors asked the AEC to
+evaluate works with leakage assessments (e.g., "TVLA") for
+reproducibility rather than mere functionality. Since these are
+essentially physical science experiments, specific questions about
+laboratory procedures, calibration methods, and statistical treatment
+arise. Despite some ISO standardization work in this area, the CHES
+community should try to reach and document a further consensus on SCA
+reproducibility. This would also help the industry to refine and
+harmonize best practices in this area.  </p>
+
+<p> <b>Bio:</b> <a href="https://www.tuni.fi/en/markku-juhani-saarinen">Markku-Juhani Saarinen</a>
+is a Professor of Practice (työelämäprofessori) at
+Tampere University (Finland). Markku served as the Artifact Chair for
+IACR CHES 2024. Markku started his career as a cryptographer at SSH
+Communications Security in 1997, working on the now-ubiquitous SSH2
+protocol. He has stayed with technical information security since
+then, dividing his time between academia and the security
+industry. Prior to moving back to his native Finland, he was with
+PQShield in Oxford (2018-2023). Markku holds a Ph.D. in Information
+Security from Royal Holloway, University of London (2009).  </p>
+</td>
+
+</tr>
+
+
+
 </table>     
-
-* [Markku-Juhani Saarinen](https://www.tuni.fi/en/markku-juhani-saarinen), Tampere University, FI
-
 
 * [Gaëtan Cassiers](https://perso.cassiersg.be/), UC Louvain, BE
 
