@@ -35,7 +35,11 @@ The OPTIMIST workshop is a forum to present and discuss new efforts that enable 
 
 * [Colin O'Flynn](https://www.dal.ca/faculty/engineering/electrical/faculty-staff/our-faculty/professors/oflynn-colin.html), Dalhousie University, CA
 
-* [Damien Couroussé](https://damien.courousse.fr/), CEA List, FR
+<img src="/assets/img/couro.png"
+     alt="Damien Courousse"
+     style="float: left; margin-right: 10px; width=150" />
+
+[Damien Couroussé](https://damien.courousse.fr/), CEA List, FR
 
 **Fault security analysis and verification: challenges and new directions**
 
@@ -50,9 +54,6 @@ fault security analysis, and suggest new directions for development.
 
 **Bio**
 
-<img src="assets/img/couro.png"
-     alt="Damien Courousse"
-     style="float: left; margin-right: 10px; width=150" />
      
 Damien Couroussé is with CEA-List since 2011, as a Research Engineer and Senior
 Expert.  His research interests include embedded software and its
