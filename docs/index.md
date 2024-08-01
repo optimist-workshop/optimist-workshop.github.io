@@ -50,6 +50,10 @@ fault security analysis, and suggest new directions for development.
 
 **Bio**
 
+<img src="assets/img/couro.png"
+     alt="Damien Courousse"
+     style="float: left; margin-right: 10px; width=150" />
+     
 Damien Couroussé is with CEA-List since 2011, as a Research Engineer and Senior
 Expert.  His research interests include embedded software and its
 interaction with hardware, compilation and runtime code generation for
