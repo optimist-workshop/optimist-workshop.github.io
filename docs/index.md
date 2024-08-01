@@ -165,7 +165,63 @@ Security from Royal Holloway, University of London (2009).  </p>
 
 ## Panelists
 
+<table>
 
+<tr>
+
+</td>
+
+<td>
+
+<p> <a href="https://www.linkedin.com/in/shivam-bhasin-81901110">Shivam Bhasin</a></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+</td>
+
+<td>
+
+<p> Miguel Osorio </p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="vertical-align:top;"> <img src="/assets/img/jasper-headshot.jpg"
+alt="Clin O'Flynn" style="width=150" />
+
+</td>
+
+<td>
+
+<p> <a href="https://www.linkedin.com/in/jaspervw/">Jasper van
+Woudenberg</a> is CTO for Riscure North America and co-author of
+”Hardware Hacking Handbook: Breaking Embedded Security with Hardware
+Attacks”. He works with Riscure’s San Francisco based team to improve
+embedded device security through innovation. In the past, Jasper
+worked for a penetration testing firm, where he performed source code
+review, binary reverse engineering and tested application and network
+security. At Riscure, Jasper deals with various aspects of hardware
+security; from design review and logical testing, to side-channel
+analysis and perturbation attacks. Jasper has spoken at many security
+conferences including BlackHat briefings and trainings, Intel Security
+Conference, RWC, RSA, EDSC, BSides SF, Shakacon, ICMC, Infiltrate, has
+presented scientific research at SAC, WISSEC, CT-RSA, FDTC, ESC
+Design, ARM TechCon, has reviewed papers for CHES and JCEN, and has
+given invited talks at Stanford, NPS, GMU and the University of
+Amsterdam.  </p>
+
+</td>
+
+</tr>
+
+</table>
 
 
 ## Call for Contributions 
