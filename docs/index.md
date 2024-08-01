@@ -38,7 +38,7 @@ The OPTIMIST workshop is a forum to present and discuss new efforts that enable 
 <tr>
 
 <td style="vertical-align:top;"> <img src="/assets/img/colin.jpg"
-alt="Clin O'Flynn" style="width=150" />
+alt="Colin O'Flynn" style="width=150" />
 
 </td>
 
