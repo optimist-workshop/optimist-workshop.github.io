@@ -46,7 +46,7 @@ alt="Clin O'Flynn" style="width=150" />
 
 <b>TBD</b>
 
-<p> <b>Bio:</b> <a
+<p> <a
 href="https://www.dal.ca/faculty/engineering/electrical/faculty-staff/our-faculty/professors/oflynn-colin.html">Colin
 O'Flynn</a> </p>
 
@@ -80,7 +80,7 @@ fault security analysis, and suggest new directions for development.
 </p>
 
 <p>
-<b>Bio:</b> <a href="https://damien.courousse.fr/">Damien Couroussé</a> is with
+<a href="https://damien.courousse.fr/">Damien Couroussé</a> is with
 CEA-List since 2011, as a Research Engineer and Senior Expert.  His
 research interests include embedded software and its interaction with
 hardware, compilation and runtime code generation for performance and
@@ -130,7 +130,7 @@ community should try to reach and document a further consensus on SCA
 reproducibility. This would also help the industry to refine and
 harmonize best practices in this area.  </p>
 
-<p> <b>Bio:</b> <a href="https://www.tuni.fi/en/markku-juhani-saarinen">Markku-Juhani Saarinen</a>
+<p> <a href="https://www.tuni.fi/en/markku-juhani-saarinen">Markku-Juhani Saarinen</a>
 is a Professor of Practice (työelämäprofessori) at
 Tampere University (Finland). Markku served as the Artifact Chair for
 IACR CHES 2024. Markku started his career as a cryptographer at SSH
