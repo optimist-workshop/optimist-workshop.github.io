@@ -35,12 +35,25 @@ The OPTIMIST workshop is a forum to present and discuss new efforts that enable 
 
 * [Colin O'Flynn](https://www.dal.ca/faculty/engineering/electrical/faculty-staff/our-faculty/professors/oflynn-colin.html), Dalhousie University, CA
 
-<img src="/assets/img/couro.png"
+<table>
+<tr>
+<td>
+<img src="/assets/img/couro.jpg"
      alt="Damien Courousse"
      style="float: left; margin-right: 10px; width=150" />
-
-[Damien Couroussé](https://damien.courousse.fr/), CEA List, FR
-
+</td>
+<td>
+[Damien Couroussé](https://damien.courousse.fr/) is with CEA-List
+since 2011, as a Research Engineer and Senior Expert.  His research
+interests include embedded software and its interaction with hardware,
+compilation and runtime code generation for performance and security,
+with a focus on hardware security.
+<td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
 **Fault security analysis and verification: challenges and new directions**
 
 Fault injection attacks pose a serious threat to the security of
@@ -51,14 +64,9 @@ equally complex software stacks.  As a consequence, the attack surface
 is rapidly growing, putting further pressure on effective robustness
 analysis tools.  In this talk, we will illustrate the challenges facing
 fault security analysis, and suggest new directions for development.
-
-**Bio**
-
+</td>
+</tr>
      
-Damien Couroussé is with CEA-List since 2011, as a Research Engineer and Senior
-Expert.  His research interests include embedded software and its
-interaction with hardware, compilation and runtime code generation for
-performance and security, with a focus on hardware security.
 
 * [Markku-Juhani Saarinen](https://www.tuni.fi/en/markku-juhani-saarinen), Tampere University, FI
 
