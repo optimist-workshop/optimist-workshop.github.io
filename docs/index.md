@@ -33,16 +33,12 @@ The OPTIMIST workshop is a forum to present and discuss new efforts that enable 
 
 ## Invited Talks
 
-* 
-
 <table>
 
 <tr>
 
-<td style="vertical-align:top;">
-<img src="/assets/img/colin.jpg"
-     alt="Clin O'Flynn"
-     style="width=150" />
+<td style="vertical-align:top;"> <img src="/assets/img/colin.jpg"
+alt="Clin O'Flynn" style="width=150" />
 
 </td>
 
@@ -50,9 +46,9 @@ The OPTIMIST workshop is a forum to present and discuss new efforts that enable 
 
 <b>TBD</b>
 
-<p>
-<b>Bio:</b> <a href="https://www.dal.ca/faculty/engineering/electrical/faculty-staff/our-faculty/professors/oflynn-colin.html">Colin O'Flynn</a>
-</p>
+<p> <b>Bio:</b> <a
+href="https://www.dal.ca/faculty/engineering/electrical/faculty-staff/our-faculty/professors/oflynn-colin.html">Colin
+O'Flynn</a> </p>
 
 </td>
 
@@ -148,11 +144,23 @@ Security from Royal Holloway, University of London (2009).  </p>
 
 </tr>
 
+<tr>
 
+<td style="vertical-align:top;">
+
+</td>
+
+<td>
+
+<b>TBD</b>
+
+<p> <b>Bio:</b> <a href="https://perso.cassiersg.be/">Gaëtan Cassiers</a> </p>
+
+</td>
+
+</tr>
 
 </table>     
-
-* [Gaëtan Cassiers](https://perso.cassiersg.be/), UC Louvain, BE
 
 
 ## Panelists
