@@ -33,9 +33,31 @@ The OPTIMIST workshop is a forum to present and discuss new efforts that enable 
 
 ## Invited Talks
 
-* [Colin O'Flynn](https://www.dal.ca/faculty/engineering/electrical/faculty-staff/our-faculty/professors/oflynn-colin.html), Dalhousie University, CA
+* 
 
 <table>
+
+<tr>
+
+<td style="vertical-align:top;">
+<img src="/assets/img/colin.jpg"
+     alt="Clin O'Flynn"
+     style="width=150" />
+
+</td>
+
+<td>
+
+<b>TBD</b>
+
+<p>
+<b>Bio:</b> <a href="https://www.dal.ca/faculty/engineering/electrical/faculty-staff/our-faculty/professors/oflynn-colin.html">Colin O'Flynn</a>
+</p>
+
+</td>
+
+</tr>
+
 
 <tr>
 
