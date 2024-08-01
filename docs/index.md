@@ -36,12 +36,16 @@ The OPTIMIST workshop is a forum to present and discuss new efforts that enable 
 * [Colin O'Flynn](https://www.dal.ca/faculty/engineering/electrical/faculty-staff/our-faculty/professors/oflynn-colin.html), Dalhousie University, CA
 
 <table>
+
 <tr>
+
 <td>
 <img src="/assets/img/couro.jpg"
      alt="Damien Courousse"
      style="width=150" />
+
 </td>
+
 <td>
 
 Bio: <a href="https://damien.courousse.fr/">Damien Couroussé</a> is with
@@ -50,11 +54,15 @@ research interests include embedded software and its interaction with
 hardware, compilation and runtime code generation for performance and
 security, with a focus on hardware security.
 
-<td>
+</td>
+
 </tr>
+
 <tr>
+
 <td>
 </td>
+
 <td>
 
 <b>Fault security analysis and verification: challenges and new directions</b>
@@ -68,7 +76,9 @@ is rapidly growing, putting further pressure on effective robustness
 analysis tools.  In this talk, we will illustrate the challenges facing
 fault security analysis, and suggest new directions for development.
 </td>
+
 </tr>
+
 </table>     
 
 * [Markku-Juhani Saarinen](https://www.tuni.fi/en/markku-juhani-saarinen), Tampere University, FI
