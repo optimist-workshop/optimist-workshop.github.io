@@ -33,9 +33,9 @@ The OPTIMIST workshop is a forum to present and discuss new efforts that enable 
 
 ## Invited Talks
 
-### [Colin O'Flynn](https://www.dal.ca/faculty/engineering/electrical/faculty-staff/our-faculty/professors/oflynn-colin.html), Dalhousie University, CA
+* [Colin O'Flynn](https://www.dal.ca/faculty/engineering/electrical/faculty-staff/our-faculty/professors/oflynn-colin.html), Dalhousie University, CA
 
-### [Damien Couroussé](https://damien.courousse.fr/), CEA List, FR
+* [Damien Couroussé](https://damien.courousse.fr/), CEA List, FR
 
 **Fault security analysis and verification: challenges and new directions**
 
@@ -55,10 +55,14 @@ Expert.  His research interests include embedded software and its
 interaction with hardware, compilation and runtime code generation for
 performance and security, with a focus on hardware security.
 
-### [Markku-Juhani Saarinen](https://www.tuni.fi/en/markku-juhani-saarinen), Tampere University, FI
+* [Markku-Juhani Saarinen](https://www.tuni.fi/en/markku-juhani-saarinen), Tampere University, FI
 
 
-### [Gaëtan Cassiers](https://perso.cassiersg.be/), UC Louvain, BE
+* [Gaëtan Cassiers](https://perso.cassiersg.be/), UC Louvain, BE
+
+
+## Panelists
+
 
 
 
