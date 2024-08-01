@@ -167,32 +167,6 @@ Security from Royal Holloway, University of London (2009).  </p>
 
 <table>
 
-<tr>
-
-<td>
-
-</td>
-
-<td  style="vertical-align:top;">
-
-<p> <a href="https://www.linkedin.com/in/shivam-bhasin-81901110">Shivam Bhasin</a></p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td  style="vertical-align:top;">
-</td>
-
-<td>
-
-<p> Miguel Osorio </p>
-
-</td>
-
-</tr>
 
 <tr>
 
@@ -221,6 +195,33 @@ presented scientific research at SAC, WISSEC, CT-RSA, FDTC, ESC
 Design, ARM TechCon, has reviewed papers for CHES and JCEN, and has
 given invited talks at Stanford, NPS, GMU and the University of
 Amsterdam.  </p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+</td>
+
+<td  style="vertical-align:top;">
+
+<p> <a href="https://www.linkedin.com/in/shivam-bhasin-81901110">Shivam Bhasin</a></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td  style="vertical-align:top;">
+</td>
+
+<td>
+
+<p> Miguel Osorio </p>
 
 </td>
 
