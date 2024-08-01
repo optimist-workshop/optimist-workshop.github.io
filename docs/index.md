@@ -169,9 +169,11 @@ Security from Royal Holloway, University of London (2009).  </p>
 
 <tr>
 
+<td>
+
 </td>
 
-<td>
+<td  style="vertical-align:top;">
 
 <p> <a href="https://www.linkedin.com/in/shivam-bhasin-81901110">Shivam Bhasin</a></p>
 
@@ -181,6 +183,7 @@ Security from Royal Holloway, University of London (2009).  </p>
 
 <tr>
 
+<td  style="vertical-align:top;">
 </td>
 
 <td>
@@ -193,8 +196,7 @@ Security from Royal Holloway, University of London (2009).  </p>
 
 <tr>
 
-<td style="vertical-align:top;"> <img src="/assets/img/jasper-headshot.jpg"
-alt="Clin O'Flynn" style="width=150" />
+<td style="vertical-align:top;"> <img src="/assets/img/jasper-headshot.jpg" alt="Jasper van Woudenberg" style="width=150" />
 
 </td>
 
