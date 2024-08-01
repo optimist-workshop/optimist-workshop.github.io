@@ -39,7 +39,7 @@ The OPTIMIST workshop is a forum to present and discuss new efforts that enable 
 
 <tr>
 
-<td>
+<td style="vertical-align:top;">
 <img src="/assets/img/couro.jpg"
      alt="Damien Courousse"
      style="width=150" />
