@@ -192,12 +192,24 @@ analysis and perturbation attacks.
 <tr>
 
 <td style="vertical-align:top;width:100px;">
-
+<img src="/assets/img/shivam.png" alt="Shivam Bhasin"> </td>
 </td>
 
 <td>
 
-<p> <a href="https://www.linkedin.com/in/shivam-bhasin-81901110">Shivam Bhasin</a></p>
+<p> <a
+href="https://www.linkedin.com/in/shivam-bhasin-81901110">Shivam
+Bhasin</a></p> is a Principal Research Scientist and Programme Manager
+for Cryptographic Engineering at the Centre for Hardware Assurance,
+Temasek Laboratories, Nanyang Technological University, Singapore. He
+earned a PhD in Electronics & Communication from Telecom Paristech
+(2011) and an Advanced Master in Security of Integrated Systems &
+Applications from Mines Saint-Etienne, France (2008). Prior to NTU, he
+was a Research Engineer at Institut Mines-Telecom, France, and a
+visiting researcher at UCL, Belgium (2011) and Kobe University
+(2013). His research focuses on embedded security, trusted computing,
+and secure designs. Bhasin has published extensively and contributed
+to the ISO/IEC 17825 standard.</p>
 
 </td>
 
@@ -206,6 +218,7 @@ analysis and perturbation attacks.
 <tr>
 
 <td style="vertical-align:top;width:100px;">
+
 
 </td>
 
