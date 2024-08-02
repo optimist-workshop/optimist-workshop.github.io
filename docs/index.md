@@ -171,28 +171,7 @@ Security from Royal Holloway, University of London (2009).  </p>
 <tr>
 
 <td style="vertical-align:top;width:100px;">
-
-<img src="/assets/img/jasper02.png" alt="Jasper van Woudenberg"> </td>
-
-<td>
-<p> <a href="https://www.linkedin.com/in/jaspervw/">Jasper van Woudenberg</a> is CTO for Riscure North America and co-author of
-Hardware Hacking Handbook: Breaking Embedded Security with Hardware
-Attacks. He works with Riscure’s San Francisco based team to improve
-embedded device security through innovation. In the past, Jasper
-worked for a penetration testing firm, where he performed source code
-resview, binary reverse engineering and tested application and network
-security. At Riscure, Jasper deals with various aspects of hardware
-security; from design review and logical testing, to side-channel
-analysis and perturbation attacks. 
-</p>
-</td>
-
-</tr>
-
-<tr>
-
-<td style="vertical-align:top;width:100px;">
-<img src="/assets/img/shivam.png" alt="Shivam Bhasin"> </td>
+<img src="/assets/img/shivam.png" alt="Shivam Bhasin">
 </td>
 
 <td>
@@ -214,6 +193,28 @@ to the ISO/IEC 17825 standard.</p>
 </td>
 
 </tr>
+
+<tr>
+
+<td style="vertical-align:top;width:100px;">
+
+<img src="/assets/img/jasper02.png" alt="Jasper van Woudenberg"> </td>
+
+<td>
+<p> <a href="https://www.linkedin.com/in/jaspervw/">Jasper van Woudenberg</a> is CTO for Riscure North America and co-author of
+Hardware Hacking Handbook: Breaking Embedded Security with Hardware
+Attacks. He works with Riscure’s San Francisco based team to improve
+embedded device security through innovation. In the past, Jasper
+worked for a penetration testing firm, where he performed source code
+resview, binary reverse engineering and tested application and network
+security. At Riscure, Jasper deals with various aspects of hardware
+security; from design review and logical testing, to side-channel
+analysis and perturbation attacks. 
+</p>
+</td>
+
+</tr>
+
 
 <tr>
 
