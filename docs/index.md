@@ -12,22 +12,22 @@ The OPTIMIST workshop is a forum to present and discuss new efforts that enable 
 | Time  |     |
 | ---   | :---: |
 | 9:00  | Welcome Remarks |
-| 9:15  | **Invited Talk:** Markku-Juhani Saarinen, <span style="color:blue">*Artifact Evaluation and Reproducibility at CHES*</span> |
+| 9:15  | **Invited Talk:** Markku-Juhani Saarinen, <span style="color:blue">Artifact Evaluation and Reproducibility at CHES</span> |
 |       | **Session 1** |
-| 10:00 | Lukasz Chmielewski, Léo Weissbart and Lubomír Hrbáček, *Technical aspects of implementing and evaluating ECC crypto libraries protected against side-channel and fault injection attacks* |
-| 10:15 | Kamyar Mohajerani, Jens-Peter Kaps and Kris Gaj, *Hardware API for Lightweight Cryptography* |
+| 10:00 | Lukasz Chmielewski, Léo Weissbart and Lubomír Hrbáček, <span style="color:blue">Technical aspects of implementing and evaluating ECC crypto libraries protected against side-channel and fault injection attacks</span> |
+| 10:15 | Kamyar Mohajerani, Jens-Peter Kaps and Kris Gaj, <span style="color:blue">Hardware API for Lightweight Cryptography</span> |
 | 10:30 | **Coffee Break** |
-| 11:00 | **Invited Talk:**  Colin O'Flynn, *Academia or Industry: Challenges of Building Open-Source Research Tools* |
-| 11:45 | **Project Kickoff:** *An Open-Source Approach to Measure and Analyze Embedded Systems Security* |
+| 11:00 | **Invited Talk:**  Colin O'Flynn, <span style="color:blue">Academia or Industry: Challenges of Building Open-Source Research Tools</span> |
+| 11:45 | **Project Kickoff:** <span style="color:blue">An Open-Source Approach to Measure and Analyze Embedded Systems Security</span> |
 | 12:30 | **Lunch** |
-| 13:00 | **Invited Talk:** Damien Couroussé, *Fault Security Analysis and Verification: Challenges and New Directions* |
+| 13:00 | **Invited Talk:** Damien Couroussé, <span style="color:blue">Fault Security Analysis and Verification: Challenges and New Directions</span> |
 |       | **Session 2**   |
-| 13:45 | Jonah Bosland, Stefan Ene, Peter Baumgartner and Vincent Immler, *SCARR: A High-Performance Side-Channel Analysis Framework* |
-| 14:00 | Karel Král, Jean-Michel Picod, Luca Invernizzi and Elie Bursztein, *Sedpack - Scalable and efficient dataset library* |
-| 14:15 | Karim Abdellatif, *SCADL: A Side-Channel Attack Tool Based on Deep Learning* |
+| 13:45 | Jonah Bosland, Stefan Ene, Peter Baumgartner and Vincent Immler, <span style="color:blue">SCARR: A High-Performance Side-Channel Analysis Framework</span> |
+| 14:00 | Karel Král, Jean-Michel Picod, Luca Invernizzi and Elie Bursztein, <span style="color:blue">Sedpack - Scalable and efficient dataset library</span> |
+| 14:15 | Karim Abdellatif, <span style="color:blue">SCADL: A Side-Channel Attack Tool Based on Deep Learning</span> |
 | 14:30 | **Coffee Break** |
 | 15:00 | **Invited Talk:** Gaëtan Cassiers  |
-| 15:45 | **Panel: Open-Source Ecosystem for Implementation Security Testing: Needs, Activities, Commitments** with Shivam Bhasin (NTU), Miguel Osorio (Google), Jasper van Woudenberg (Riscure), and TBD  |
+| 15:45 | **Panel:** <span style="color:blue">Open-Source Ecosystem for Implementation Security Testing: Needs, Activities, Commitments</span> with Shivam Bhasin (NTU), Miguel Osorio (Google), Jasper van Woudenberg (Riscure), and TBD  |
 | 16:45 | **Closing**      |
 
 
