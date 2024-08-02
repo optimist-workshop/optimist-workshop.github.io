@@ -178,7 +178,7 @@ Security from Royal Holloway, University of London (2009).  </p>
 
 <p> <a
 href="https://www.linkedin.com/in/shivam-bhasin-81901110">Shivam
-Bhasin</a></p> is a Principal Research Scientist and Programme Manager
+Bhasin</a> is a Principal Research Scientist and Programme Manager
 for Cryptographic Engineering at the Centre for Hardware Assurance,
 Temasek Laboratories, Nanyang Technological University, Singapore. He
 earned a PhD in Electronics & Communication from Telecom Paristech
