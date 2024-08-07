@@ -26,7 +26,7 @@ The OPTIMIST workshop is a forum to present and discuss new efforts that enable 
 | 14:00 | Karel Král, Jean-Michel Picod, Luca Invernizzi and Elie Bursztein, <span style="color:#011673;font-weight:bold;">Sedpack - Scalable and efficient dataset library</span> |
 | 14:15 | Karim Abdellatif, <span style="color:#011673;font-weight:bold;">SCADL: A Side-Channel Attack Tool Based on Deep Learning</span> |
 | 14:30 | **Coffee Break** |
-| 15:00 | **Invited Talk:** Gaëtan Cassiers  |
+| 15:00 | **Invited Talk:** Gaëtan Cassiers, <span style="color:#011673;font-weight:bold;">Verification and evaluation of open-source implementations: the SMAesH study case</span>  |
 | 15:45 | **Panel:** <span style="color:#011673;font-weight:bold;">Open-Source Ecosystem for Implementation Security Testing: Needs, Activities, Commitments</span> with Shivam Bhasin (NTU), Miguel Osorio (Google), Jasper van Woudenberg (Riscure), and TBD  |
 | 16:45 | **Closing**      |
 
@@ -147,16 +147,36 @@ Security from Royal Holloway, University of London (2009).  </p>
 
 <tr>
 
-<td style="vertical-align:top;width:100px;">
+<tr>
 
+<td style="vertical-align:top;width:100px;">
+<img src="/assets/img/cassiers.jpg" alt="Gaetan Cassiers">
 </td>
+
 
 <td>
 
-<b>TBD</b>
+<b>Verification and evaluation of open-source implementations: the SMAesH study case</b>
+
+<p> SMAesH is an open-source hardware implementation of AES protected against
+side-channel analysis with the masking countermeasure. It achieves state-of-the
+art performance, has been proven secure in the robust probing model and
+withstood public scrutiny during the CHES 2023 challenge.
+In this talk, we present SMAesH, discuss the verification and evaluation process
+we followed to gain trust in its security, and we present the ongoing and future
+work on the topic. Finally, we discuss the strength and weaknesses of SMAesH's
+evaluation process.
+</p>
 
 <p> <b>Bio:</b> <a href="https://perso.cassiersg.be/">Gaëtan Cassiers</a> </p>
-
+is a postdoctoral researcher at the Crypto Group of UCLouvain.
+His research focuses on the analysis and design of side-channel countermeasures,
+most prominently on masking techniques. He co-organized the CHES 2020 and 2023
+side-channel evaluation challenges. In 2022 he co-founded the SIMPLE-Crypto
+(non-profit) association that promotes open-source in the field of cryptography
+with physical security. He is a developer and maintainer of two SIMPLE-Crypto
+projects: SCALib, a side-channel security evaluation library and SMAesH, a
+masked implementation of the AES.
 </td>
 
 </tr>
