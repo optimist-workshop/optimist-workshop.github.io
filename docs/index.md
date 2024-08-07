@@ -37,25 +37,26 @@ The OPTIMIST workshop is a forum to present and discuss new efforts that enable 
 
 <tr>
 
-<td style="vertical-align:top;width:100px;">
-<img src="/assets/img/colin.jpg" alt="Colin O'Flynn"/>
-</td>
+	<td style="vertical-align:top;width:100px;">
+	<img src="/assets/img/colin.jpg" alt="Colin O'Flynn"/>
+	</td>
 
-<td>
+	<td>
 
-<b>Academia or Industry: Challenges of Building Open-Source Research Tools</b>
+	<b>Academia or Industry: Challenges of Building Open-Source Research Tools</b>
 
-<p>
-ChipWhisperer started as an open-source project for fault injection and side channel analysis, with the goal of making hardware widely available for researchers. This has resulted in a combination of both academic and industrial work, and this talk discusses how ChipWhisperer was developed, the challenges in trying to bridge the gap between various areas, and where more support is still needed. This includes how to build open-source projects that have long-term support without relying only on grants or short-term industry support, with specific details of how this was done with ChipWhisperer.
+	<p>
+	ChipWhisperer started as an open-source project for fault injection and side channel analysis, with the goal of making hardware widely available for researchers. This has resulted in a combination of both academic and industrial work, and this talk discusses how ChipWhisperer was developed, the challenges in trying to bridge the gap between various areas, and where more support is still needed. This includes how to build open-source projects that have long-term support without relying only on grants or short-term industry support, with specific details of how this was done with ChipWhisperer.
+	</p>
+
+	<p> <a
+href="https://www.dal.ca/faculty/engineering/electrical/faculty-staff/our-faculty/professors/oflynn-colin.html">Colin
+O'Flynn</a> is an Assistant Professor at Dalhousie University in Halifax, NS, Canada. He works in hardware security research, and previously co-founded NewAE Technology Inc, which was a company spun out of the development of the ChipWhisperer project. As part of this work he is co-author of the Hardware Hacking Handbook, and has given numerous talks on ChipWhisperer and related research performed with the tools.
 </p>
 
-<p> <a
-href="https://www.dal.ca/faculty/engineering/electrical/faculty-staff/our-faculty/professors/oflynn-colin.html">Colin
-O'Flynn</a> is an Assistant Professor at Dalhousie University in Halifax, NS, Canada. He works in hardware security research, and previously co-founded NewAE Technology Inc, which was a company spun out of the development of the ChipWhisperer project. As part of this work he is co-author of the Hardware Hacking Handbook, and has given numerous talks on ChipWhisperer and related research performed with the tools.</p>
+	</td>
 
-</td>
-
-</tr>
+	</tr>
 
 
 <tr>
@@ -144,8 +145,6 @@ Security from Royal Holloway, University of London (2009).  </p>
 </td>
 
 </tr>
-
-<tr>
 
 <tr>
 
