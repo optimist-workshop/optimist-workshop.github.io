@@ -168,7 +168,7 @@ work on the topic. Finally, we discuss the strength and weaknesses of SMAesH's
 evaluation process.
 </p>
 
-<p> <b>Bio:</b> <a href="https://perso.cassiersg.be/">Gaëtan Cassiers</a> </p>
+<p> <a href="https://perso.cassiersg.be/">Gaëtan Cassiers</a> 
 is a postdoctoral researcher at the Crypto Group of UCLouvain.
 His research focuses on the analysis and design of side-channel countermeasures,
 most prominently on masking techniques. He co-organized the CHES 2020 and 2023
@@ -176,7 +176,8 @@ side-channel evaluation challenges. In 2022 he co-founded the SIMPLE-Crypto
 (non-profit) association that promotes open-source in the field of cryptography
 with physical security. He is a developer and maintainer of two SIMPLE-Crypto
 projects: SCALib, a side-channel security evaluation library and SMAesH, a
-masked implementation of the AES.
+masked implementation of the AES.</p>
+
 </td>
 
 </tr>
