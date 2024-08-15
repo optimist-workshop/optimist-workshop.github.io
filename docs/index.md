@@ -20,15 +20,15 @@ The OPTIMIST workshop is a forum to present and discuss new efforts that enable 
 | 11:00 | **Invited Talk:**  Colin O'Flynn, <span style="color:#011673;font-weight:bold;">Academia or Industry: Challenges of Building Open-Source Research Tools</span> |
 | 11:45 | **Project Kickoff:** <span style="color:#011673;font-weight:bold;">An Open-Source Approach to Measure and Analyze Embedded Systems Security</span> |
 | 12:30 | **Lunch** |
-| 13:00 | **Invited Talk:** Damien Couroussé, <span style="color:#011673;font-weight:bold;">Fault Security Analysis and Verification: Challenges and New Directions</span> |
+| 13:30 | **Invited Talk:** Damien Couroussé, <span style="color:#011673;font-weight:bold;">Fault Security Analysis and Verification: Challenges and New Directions</span> |
 |       | **Session 2**   |
-| 13:45 | Jonah Bosland, Stefan Ene, Peter Baumgartner and Vincent Immler, <span style="color:#011673;font-weight:bold;">SCARR: A High-Performance Side-Channel Analysis Framework</span> |
-| 14:00 | Karel Král, Jean-Michel Picod, Luca Invernizzi and Elie Bursztein, <span style="color:#011673;font-weight:bold;">Sedpack - Scalable and efficient dataset library</span> |
-| 14:15 | Karim Abdellatif, <span style="color:#011673;font-weight:bold;">SCADL: A Side-Channel Attack Tool Based on Deep Learning</span> |
-| 14:30 | **Coffee Break** |
-| 15:00 | **Invited Talk:** Gaëtan Cassiers, <span style="color:#011673;font-weight:bold;">Verification and evaluation of open-source implementations: the SMAesH study case</span>  |
-| 15:45 | **Panel:** <span style="color:#011673;font-weight:bold;">Open-Source Ecosystem for Implementation Security Testing: Needs, Activities, Commitments</span> with Shivam Bhasin (NTU), Miguel Osorio (Google), Paul Scheidt (Synopsys), Jasper van Woudenberg (Riscure), and TBD  |
-| 16:45 | **Closing**      |
+| 14:15 | Jonah Bosland, Stefan Ene, Peter Baumgartner and Vincent Immler, <span style="color:#011673;font-weight:bold;">SCARR: A High-Performance Side-Channel Analysis Framework</span> |
+| 14:30 | Karel Král, Jean-Michel Picod, Luca Invernizzi and Elie Bursztein, <span style="color:#011673;font-weight:bold;">Sedpack - Scalable and efficient dataset library</span> |
+| 14:45 | Karim Abdellatif, <span style="color:#011673;font-weight:bold;">SCADL: A Side-Channel Attack Tool Based on Deep Learning</span> |
+| 15:00 | **Coffee Break** |
+| 15:30 | **Invited Talk:** Gaëtan Cassiers, <span style="color:#011673;font-weight:bold;">Verification and evaluation of open-source implementations: the SMAesH study case</span>  |
+| 16:00 | **Panel:** <span style="color:#011673;font-weight:bold;">Open-Source Ecosystem for Implementation Security Testing: Needs, Activities, Commitments</span> with Shivam Bhasin (NTU), Miguel Osorio (Google), Paul Scheidt (Synopsys), Jasper van Woudenberg (Riscure), and TBD  |
+| 17:00 | **Closing**      |
 
 
 ## Invited Talks
