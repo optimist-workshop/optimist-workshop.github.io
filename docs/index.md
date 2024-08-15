@@ -27,7 +27,7 @@ The OPTIMIST workshop is a forum to present and discuss new efforts that enable 
 | 14:15 | Karim Abdellatif, <span style="color:#011673;font-weight:bold;">SCADL: A Side-Channel Attack Tool Based on Deep Learning</span> |
 | 14:30 | **Coffee Break** |
 | 15:00 | **Invited Talk:** Gaëtan Cassiers, <span style="color:#011673;font-weight:bold;">Verification and evaluation of open-source implementations: the SMAesH study case</span>  |
-| 15:45 | **Panel:** <span style="color:#011673;font-weight:bold;">Open-Source Ecosystem for Implementation Security Testing: Needs, Activities, Commitments</span> with Shivam Bhasin (NTU), Miguel Osorio (Google), Jasper van Woudenberg (Riscure), and TBD  |
+| 15:45 | **Panel:** <span style="color:#011673;font-weight:bold;">Open-Source Ecosystem for Implementation Security Testing: Needs, Activities, Commitments</span> with Shivam Bhasin (NTU), Miguel Osorio (Google), Paul Scheidt (Synopsys), Jasper van Woudenberg (Riscure), and TBD  |
 | 16:45 | **Closing**      |
 
 
@@ -211,6 +211,27 @@ and secure designs. Bhasin has published extensively and contributed
 to the ISO/IEC 17825 standard.</p>
 
 </td>
+
+</tr>
+
+
+
+<tr>
+
+<td style="vertical-align:top;width:100px;">
+
+<img src="/assets/img/scheidt.png" alt="Paul Scheidt"> </td>
+
+<td> <p> <a
+href="https://www.linkedin.com/in/paul-scheidt-b239b1/">Paul
+Scheidt</a> is Principal Engineer at Synopsys and is responsible for
+leading the development of cryptographic IP and countermeasure
+analysis tools. Previously he was a founding member of the Google
+Titan security chip team. He led the development of all cryptographic
+accelerators and secure RISC-V processors used in three generations of
+the Titan product. In the quest to reach the highest security levels,
+Paul has spent quality time pentesting his team's designs, hunting for
+side channel leaks and fault vulnerabilities.  </p> </td>
 
 </tr>
 
