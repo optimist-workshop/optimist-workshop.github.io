@@ -27,7 +27,7 @@ The OPTIMIST workshop is a forum to present and discuss new efforts that enable 
 | 14:45 | Karim Abdellatif, <span style="color:#011673;font-weight:bold;">SCADL: A Side-Channel Attack Tool Based on Deep Learning</span> |
 | 15:00 | **Coffee Break** |
 | 15:30 | **Invited Talk:** Gaëtan Cassiers, <span style="color:#011673;font-weight:bold;">Verification and evaluation of open-source implementations: the SMAesH study case</span>  |
-| 16:00 | **Panel:** <span style="color:#011673;font-weight:bold;">Open-Source Ecosystem for Implementation Security Testing: Needs, Activities, Commitments</span> with Shivam Bhasin (NTU), Pascal Nasahl (LowRISC), Miguel Osorio (Google), Paul Scheidt (Synopsys), Jasper van Woudenberg (Riscure), and TBD  |
+| 16:00 | **Panel:** <span style="color:#011673;font-weight:bold;">Open-Source Ecosystem for Implementation Security Testing: Needs, Activities, Commitments</span> with Shivam Bhasin (NTU), Pascal Nasahl (LowRISC), Miguel Osorio (Google), Paul Scheidt (Synopsys), and Jasper van Woudenberg (Riscure)  |
 | 17:00 | **Closing**      |
 
 
