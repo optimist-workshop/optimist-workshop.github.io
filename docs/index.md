@@ -214,6 +214,29 @@ to the ISO/IEC 17825 standard.</p>
 
 </tr>
 
+<tr>
+
+<td style="vertical-align:top;width:100px;">
+
+<img src="/assets/img/pascal.jpg" alt="Pascal Nasahl"> </td>
+
+</td>
+
+<td>
+
+<p> <a href="https://nasahl.li">Pascal Nasahl</a> is a senior security
+engineer at lowRISC, where he does R&D to harden and analyze the
+security of OpenTitan. He obtained a PhD in hardware security from TU
+Graz, where his focus was on researching countermeasures against
+software and physical attacks. While with TU Graz, Pascal worked on
+fault attacks, countermeasures, and verification at Google, Intel
+Labs, and Riscure.
+</p>
+
+</td>
+
+</tr>
+
 
 
 <tr>
@@ -257,20 +280,9 @@ analysis and perturbation attacks.
 </tr>
 
 
-<tr>
-
-<td style="vertical-align:top;width:100px;">
 
 
-</td>
 
-<td>
-
-<p> Pascal Nasahl </p>
-
-</td>
-
-</tr>
 
 <tr>
 
