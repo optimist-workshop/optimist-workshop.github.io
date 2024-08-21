@@ -218,7 +218,7 @@ to the ISO/IEC 17825 standard.</p>
 
 <td style="vertical-align:top;width:100px;">
 
-<img src="/assets/img/pascal.jpg" alt="Pascal Nasahl"> </td>
+<img src="/assets/img/pascal.jpg" alt="Pascal Nasahl"> 
 
 </td>
 
