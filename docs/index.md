@@ -241,7 +241,7 @@ Labs, and Riscure.
 
 <td style="vertical-align:top;width:100px;">
 
-<img src="/assets/img/miguel.png" alt="Miguel Osorio"> 
+<img src="/assets/img/miguel.jpg" alt="Miguel Osorio"> 
 
 </td>
 
