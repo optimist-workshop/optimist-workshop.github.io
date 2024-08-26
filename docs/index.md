@@ -237,6 +237,34 @@ Labs, and Riscure.
 
 </tr>
 
+<tr>
+
+<td style="vertical-align:top;width:100px;">
+
+<img src="/assets/img/miguel.png" alt="Miguel Osorio"> 
+
+</td>
+
+<td>
+
+<p> Miguel Osorio is a Staff Software Engineer at Google, has provided
+technical leadership to OpenTitan, the world's first open source
+silicon root of trust project.  His focus is design and implementation
+of security architecture and features, fostering open source
+methodologies and community engagement, as well as overseeing
+development and integration infrastructure. His work leverages deep
+expertise in embedded security, hardware and software penetration
+testing, provisioning protocols and infrastructure, and cloud
+computing, to enable secure provisioning of integrated circuits in
+critical applications. Committed to advancing the field, Miguel
+actively collaborates with industry partners and academic
+institutions, pushing the boundaries of open source hardware and
+security.  </p>
+
+</td>
+
+</tr>
+
 
 
 <tr>
@@ -283,21 +311,6 @@ analysis and perturbation attacks.
 
 
 
-
-<tr>
-
-<td style="vertical-align:top;width:100px;">
-
-
-</td>
-
-<td>
-
-<p> Miguel Osorio </p>
-
-</td>
-
-</tr>
 
 </table>
 
