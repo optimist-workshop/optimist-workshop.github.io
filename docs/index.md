@@ -6,6 +6,10 @@ layout: default
 
 The OPTIMIST workshop is a forum to present and discuss new efforts that enable open and reproducible research in implementation security. The OPTIMIST emphasis is not on the artifacts themselves, but on the interfaces, components, libraries, hardware, and software tools that enable reproducibility and quality in implementation security testing.
 
+## Current Activities of OPTIMIST
+
+<span style="color:#011673;font-weight:bold;">Follow up on our progress with the [OPTIMIST Hour](https://optimist-ose.org)</span>
+
 ## Tentative Program
 
 
