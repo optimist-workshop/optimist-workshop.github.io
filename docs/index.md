@@ -8,7 +8,7 @@ The OPTIMIST workshop is a forum to present and discuss new efforts that enable 
 
 ## Current Activities of OPTIMIST
 
-<span style="color:#011673;font-weight:bold;">Follow up on our progress with the [OPTIMIST Hour](https://optimist-ose.org)</span>
+<span style="color:#FF0000;font-weight:bold;">Follow up on our progress with the [OPTIMIST Hour](https://optimist-ose.org)</span>
 
 ## Tentative Program
 
